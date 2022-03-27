@@ -49,13 +49,13 @@
   ],
 
   "Categories": [
-    {"id": 1,"name_category": "album0","image": "https://www.kasihputih.com/apk/aliendroid/devlogo512.png"},
-    {"id": 2,"name_category": "album1","image": "https://www.kasihputih.com/apk/aliendroid/devlogo512.png"},
-    {"id": 3,"name_category": "album2","image": "https://www.kasihputih.com/apk/aliendroid/devlogo512.png"},
-    {"id": 4,"name_category": "album3","image": "https://www.kasihputih.com/apk/aliendroid/devlogo512.png"},
-    {"id": 5,"name_category": "album4","image": "https://www.kasihputih.com/apk/aliendroid/devlogo512.png"},
-    {"id": 6,"name_category": "album5","image": "https://www.kasihputih.com/apk/aliendroid/devlogo512.png"},
-    {"id": 7,"name_category": "album6","image": "https://www.kasihputih.com/apk/aliendroid/devlogo512.png"}
+    {"id": 1,"name_category": "album0","image": "https://i.ibb.co/QCNyXPy/logo4-2.png"},
+    {"id": 2,"name_category": "album1","image": "https://i.ibb.co/QCNyXPy/logo4-2.png"},
+    {"id": 3,"name_category": "album2","image": "https://i.ibb.co/QCNyXPy/logo4-2.png"},
+    {"id": 4,"name_category": "album3","image": "https://i.ibb.co/QCNyXPy/logo4-2.png"},
+    {"id": 5,"name_category": "album4","image": "https://i.ibb.co/QCNyXPy/logo4-2.png"},
+    {"id": 6,"name_category": "album5","image": "https://i.ibb.co/QCNyXPy/logo4-2.png"},
+    {"id": 7,"name_category": "album6","image": "https://i.ibb.co/QCNyXPy/logo4-2.png"}
   ],
 
   "Data":
