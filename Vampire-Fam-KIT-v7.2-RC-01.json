@@ -3,52 +3,45 @@
     {
       "select_main_ads": "STARTAPP",
       "select_backup_ads":"APPLOVIN-D",
-      "main_ads_banner": "",
-      "main_ads_intertitial":"",
+
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
       "main_ads_natives":"",
       "main_ads_rewards":"",
+
       "backup_ads_natives":"",
-      "backup_ads_banner":"",
-      "backup_ads_intertitial":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
       "backup_ads_rewards":"",
+
       "open_ads_admob":"",
       "open_ads_alien":"",
+
       "switch_open_ads":"1",
       "switch_banner_natives_ads":"",
+
       "on_off_native_listview":"",
       "interval_intertitial": 5,
-      "initialize_sdk":"200823138",
+      "initialize_sdk":"107355779",
       "initialize_sdk_backup_ads":"",
-      "high_paying_keyword_1": "",
-      "high_paying_keyword_2": "",
-      "high_paying_keyword_3": "",
-      "high_paying_keyword_4": "",
-      "high_paying_keyword_5": "",
+
+      "high_paying_keyword_1": "Loans,Mortgage,Attomey,Finance,how do you open an etrade account,everest university online,open etrade account bonus,best online bachelor degree programs,low investment business,etrade open account,shopify stores,home based business,automobile lawyers near me",
+      "high_paying_keyword_2": "Credit,Lawyer,Donate,Degree,Hosting,Insurance,business management,new car loan rates,land loan interest rates,business solutions,nursing degree online,open a new etrade account,college job board,new ppp loan,set up etrade account,music therapy degree online,capital one auto refinance,etrade sign up bonus,how to open an etrade account,etrade for beginners,marketing masters degree online,online marketing degree,mba marketing online,online marketing masters programs,get a marketing degree online,masters in internet marketing,digital marketing for dentists,online marketing school,cheap domain and hosting",
+      "high_paying_keyword_3": "Claim,Conference call,Trading,Attorney,vps platform,wordpress vps hosting,buy vps hosting,cloud virtual server,cloud hosting services,creating a business email,wordpress web hosting,cloud vps server hosting,cloud hosting providers,cloud server hosting,business email domain,cloud vps providers,virtual server vps,wordpress hosting,cash earning games,cash earning games",
+      "high_paying_keyword_4": "Software,Recovery,Transfer,Mortgage,email hunter,my email address,mxtoolbox blacklist,create new email account,private email,microsoft webmail,free smtp server,outlook email login page,email account sign up,gmail server,temp mail,dmarc policy,email client,outlook email,new email,email hosting,email search,bulk email",
+      "high_paying_keyword_5": "Gas/Electricity,Classes,Rehab,Treatment,microsoft webmail,email account sign up,bulk email,free smtp server,email hosting,email client,create new email account,reverse email search,dmarc policy,private email,gmail server,Mesothelioma Survival Rates,Structured Settlement Annuity Companies,Mesothelioma Attorneys California",
+
       "status_app": "0",
       "link_redirect": "https://",
       "on_off_category":""
     }
   ],
+  
   "More":
   [
-    {
-      "id":1,
-      "title":"Ludo King",
-      "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
-    },
-    {
-      "id":2,
-      "title":"Homescapes",
-      "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
-    },
-    {
-      "id":3,
-      "title":"Minecraft",
-      "image":"https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
-    }
+      {"id":1,"title":"Coming Soon","image":"https://apps.indolokal.com/lightgeneration/comingsoon.png","link":"https://www.indolokal.id"},
+      {"id":2,"title":"Legacies","image":"https://play-lh.googleusercontent.com/ELHNAd-ctlgCQUsInrF7Jmsb4y4anvIYzP6XiSvrr5qwUW2xpVwBA9S74vvUrJTKBpI=s180-rw","link":"https://play.google.com/store/apps/details?id=com.legacies.lightgeneration"},
+      {"id":3,"title":"The Originals","image":"https://play-lh.googleusercontent.com/IeLmiwLFfkvXhbGmS40CCgv9KyBxy3Ej6vXApcjbd-4hPsa2GZaKHMAPKbobq5IBWAi-=s180-rw","link":"https://play.google.com/store/apps/details?id=com.theoriginal.lightgeneration"}
   ],
 
   "Categories": [
