@@ -9,10 +9,10 @@
       "main_ads_natives":"980088216",
       "main_ads_rewards":"980099801",
 
-      "backup_ads_natives":"",
-      "backup_ads_banner":"",
-      "backup_ads_intertitial":"",
-      "backup_ads_rewards":"",
+      "backup_ads_natives":"null",
+      "backup_ads_banner":"null",
+      "backup_ads_intertitial":"null",
+      "backup_ads_rewards":"null",
 
       "open_ads_admob":"",
       "open_ads_alien":"",
