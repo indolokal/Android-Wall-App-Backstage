@@ -1,7 +1,7 @@
 {
   "Ads": [
     {
-      "select_main_ads": "ADMOB",
+      "select_main_ads": "PANGLE",
       "select_backup_ads":"null",
 
       "main_ads_banner": "980099802",
@@ -9,9 +9,9 @@
       "main_ads_natives":"980088216",
       "main_ads_rewards":"980099801",
 
-      "backup_ads_natives":"ca-app-pub-3940256099942544/2247696110",
-      "backup_ads_banner":"ca-app-pub-3940256099942544/6300978111",
-      "backup_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
       "backup_ads_rewards":"",
 
       "open_ads_admob":"8025677",
@@ -22,8 +22,8 @@
 
       "on_off_native_listview":"",
       "interval_intertitial": 5,
-      "initialize_sdk":"107355779",
-      "initialize_sdk_backup_ads":"17b80fa1d",
+      "initialize_sdk":"8025677",
+      "initialize_sdk_backup_ads":"null",
 
       "high_paying_keyword_1": "Loans,Mortgage,Attomey,Finance,how do you open an etrade account,everest university online,open etrade account bonus,best online bachelor degree programs,low investment business,etrade open account,shopify stores,home based business,automobile lawyers near me",
       "high_paying_keyword_2": "Credit,Lawyer,Donate,Degree,Hosting,Insurance,business management,new car loan rates,land loan interest rates,business solutions,nursing degree online,open a new etrade account,college job board,new ppp loan,set up etrade account,music therapy degree online,capital one auto refinance,etrade sign up bonus,how to open an etrade account,etrade for beginners,marketing masters degree online,online marketing degree,mba marketing online,online marketing masters programs,get a marketing degree online,masters in internet marketing,digital marketing for dentists,online marketing school,cheap domain and hosting",
