@@ -20,8 +20,8 @@
       "switch_open_ads":"2",
       "switch_banner_natives_ads":"",
 
-      "on_off_native_listview":"",
-      "interval_intertitial": 5,
+      "on_off_native_listview":"1",
+      "interval_intertitial": 3,
       "initialize_sdk":"211472210",
       "initialize_sdk_backup_ads":"",
 
@@ -33,7 +33,7 @@
 
       "status_app": "0",
       "link_redirect": "https://",
-      "on_off_category":""
+      "on_off_category":"1"
     }
   ],
   
