@@ -2,19 +2,19 @@
   "Ads": [
     {
       "select_main_ads":"STARTAPP",
-      "select_backup_ads":"APPLOVIN-D",
+      "select_backup_ads":"null",
 
-      "main_ads_banner": "980344731",
-      "main_ads_intertitial":"980344729",
-      "main_ads_natives":"980344732",
-      "main_ads_rewards":"980344730",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
 
       "backup_ads_natives":"",
       "backup_ads_banner":"",
       "backup_ads_intertitial":"",
       "backup_ads_rewards":"",
 
-      "open_ads_admob":"890007811",
+      "open_ads_admob":"",
       "open_ads_alien":"",
 
       "switch_open_ads":"2",
