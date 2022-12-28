@@ -45,11 +45,11 @@
   ],
 
   "Categories": [
-    {"id":1,"name_category":"Album 1","image": "https://apps.indolokal.com/lightgeneration/file/icons512.png"},
-    {"id":2,"name_category":"Album 2","image": "https://apps.indolokal.com/lightgeneration/file/icons512.png"},
-    {"id":3,"name_category":"Album 3","image": "https://apps.indolokal.com/lightgeneration/file/icons512.png"},
-    {"id":4,"name_category":"Album 4","image": "https://apps.indolokal.com/lightgeneration/file/icons512.png"},
-    {"id":4,"name_category":"Album 5","image": "https://apps.indolokal.com/lightgeneration/file/icons512.png"}
+    {"id":1,"name_category":"Album 1","image": "https://i.ibb.co/YbkV479/kit.png"},
+    {"id":2,"name_category":"Album 2","image": "https://i.ibb.co/YbkV479/kit.png"},
+    {"id":3,"name_category":"Album 3","image": "https://i.ibb.co/YbkV479/kit.png"},
+    {"id":4,"name_category":"Album 4","image": "https://i.ibb.co/YbkV479/kit.png"},
+    {"id":4,"name_category":"Album 5","image": "https://i.ibb.co/YbkV479/kit.png"}
   ],
 
   "Data":
