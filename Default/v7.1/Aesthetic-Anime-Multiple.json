@@ -18,10 +18,10 @@
       "open_ads_alien":"",
 
       "switch_open_ads":"2",
-      "switch_banner_natives_ads":"",
+      "switch_banner_natives_ads":"1",
 
-      "on_off_native_listview":"",
-      "interval_intertitial": 5,
+      "on_off_native_listview":"1",
+      "interval_intertitial": 3,
       "initialize_sdk":"211519150",
       "initialize_sdk_backup_ads":"211519150",
 
