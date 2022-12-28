@@ -2,7 +2,7 @@
   "Ads": [
     {
       "select_main_ads":"STARTAPP",
-      "select_backup_ads":"ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
 
       "main_ads_banner": "980344731",
       "main_ads_intertitial":"980344729",
@@ -22,8 +22,8 @@
 
       "on_off_native_listview":"",
       "interval_intertitial": 5,
-      "initialize_sdk":"8025677",
-      "initialize_sdk_backup_ads":"8025677",
+      "initialize_sdk":"211519150",
+      "initialize_sdk_backup_ads":"211519150",
 
       "high_paying_keyword_1": "Loans,Mortgage,Attomey,Finance,how do you open an etrade account,everest university online,open etrade account bonus,best online bachelor degree programs,low investment business,etrade open account,shopify stores,home based business,automobile lawyers near me",
       "high_paying_keyword_2": "Credit,Lawyer,Donate,Degree,Hosting,Insurance,business management,new car loan rates,land loan interest rates,business solutions,nursing degree online,open a new etrade account,college job board,new ppp loan,set up etrade account,music therapy degree online,capital one auto refinance,etrade sign up bonus,how to open an etrade account,etrade for beginners,marketing masters degree online,online marketing degree,mba marketing online,online marketing masters programs,get a marketing degree online,masters in internet marketing,digital marketing for dentists,online marketing school,cheap domain and hosting",
