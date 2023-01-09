@@ -18,13 +18,13 @@
       "open_ads_alien":"",
 
       "switch_open_ads":"2",
-      "switch_banner_natives_ads":"",
+      "switch_banner_natives_ads":"1",
       "one_signal_key":"null",
 
-      "on_off_native_listview":"",
-      "interval_intertitial": 5,
+      "on_off_native_listview":"1",
+      "interval_intertitial": 3,
       "initialize_sdk":"211472210",
-      "initialize_sdk_backup_ads":"",
+      "initialize_sdk_backup_ads":"211472210",
 
       "high_paying_keyword_1": "Loans,Mortgage,Attomey,Finance,how do you open an etrade account,everest university online,open etrade account bonus,best online bachelor degree programs,low investment business,etrade open account,shopify stores,home based business,automobile lawyers near me",
       "high_paying_keyword_2": "Credit,Lawyer,Donate,Degree,Hosting,Insurance,business management,new car loan rates,land loan interest rates,business solutions,nursing degree online,open a new etrade account,college job board,new ppp loan,set up etrade account,music therapy degree online,capital one auto refinance,etrade sign up bonus,how to open an etrade account,etrade for beginners,marketing masters degree online,online marketing degree,mba marketing online,online marketing masters programs,get a marketing degree online,masters in internet marketing,digital marketing for dentists,online marketing school,cheap domain and hosting",
