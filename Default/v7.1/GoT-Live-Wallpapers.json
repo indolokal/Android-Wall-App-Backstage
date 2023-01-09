@@ -14,8 +14,8 @@
       "backup_ads_intertitial":"",
       "backup_ads_rewards":"",
 
-      "open_ads_admob":"null",
-      "open_ads_alien":"null",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
 
       "switch_open_ads":"2",
       "switch_banner_natives_ads":"1",
