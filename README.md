@@ -1,4 +1,4 @@
-# wallpapers-online-offline
+# Wallpapers Online-Offline
 
 Introduction
 source code untuk membuat aplikasi wallpaper. Semua gambar menggunakan json sebagai penyimpanan yang bisa diatur secara offline dan online. Support file *.jpg, *.png, *.gif, *.webp
