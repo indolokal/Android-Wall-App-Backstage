@@ -1,8 +1,8 @@
 {
   "Ads": [
     {
-      "select_main_ads": "WORTISE",
-      "select_backup_ads":"STARTAPP",
+      "select_main_ads": "STARTAPP",
+      "select_backup_ads":"WORTISE",
       "main_ads_banner": "6702fc06-c5c8-4b01-a600-4270bd70cfff",
       "main_ads_intertitial":"",
       "main_ads_natives":"760ca0fd-e312-4d41-af3c-0f69a2d7c629",
