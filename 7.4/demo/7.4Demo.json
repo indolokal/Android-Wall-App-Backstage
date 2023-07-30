@@ -3,9 +3,9 @@
     {
       "select_main_ads": "WORTISE",
       "select_backup_ads":"APPLOVIN-M",
-      "main_ads_banner": "6702fc06-c5c8-4b01-a600-4270bd70cfff",
+      "main_ads_banner": "ban_legacies",
       "main_ads_intertitial":"",
-      "main_ads_natives":"760ca0fd-e312-4d41-af3c-0f69a2d7c629",
+      "main_ads_natives":"nav_legacies",
       "main_ads_rewards":"",
       "backup_ads_natives":"",
       "backup_ads_banner":"85ca6674-dad1-4c2e-8dd3-c37220fd4fda",
