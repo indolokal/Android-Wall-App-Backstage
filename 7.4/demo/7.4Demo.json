@@ -2,7 +2,7 @@
   "Ads": [
     {
       "select_main_ads": "WORTISE",
-      "select_backup_ads":"WORTISE",
+      "select_backup_ads":"STARTAPP",
       "main_ads_banner": "6702fc06-c5c8-4b01-a600-4270bd70cfff",
       "main_ads_intertitial":"0873ee67-0961-4a36-a2a2-41a68d0c5f53",
       "main_ads_natives":"760ca0fd-e312-4d41-af3c-0f69a2d7c629",
@@ -18,7 +18,7 @@
       "on_off_native_listview":"",
       "interval_intertitial": 5,
       "initialize_sdk":"13ebe589-690f-420f-a298-1fd803e68484",
-      "initialize_sdk_backup_ads":"",
+      "initialize_sdk_backup_ads":"211673028",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
       "high_paying_keyword_3": "",
